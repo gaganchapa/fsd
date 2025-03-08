@@ -54,6 +54,11 @@ pip install requests pandas beautifulsoup4 openpyxl nltk tqdm
    - A folder named `MasterDictionary` should have `positive-words.txt` and `negative-words.txt`.
 
 ---
+## Sample Output
+![alt text](https://github.com/gaganchapa/rag_black_coffer/blob/main/bl.png)
+![alt text](https://github.com/gaganchapa/rag_black_coffer/blob/main/bl2.png)
+![alt text](https://github.com/gaganchapa/rag_black_coffer/blob/main/bl3.png)
+
 
 
 
