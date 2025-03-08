@@ -55,17 +55,5 @@ pip install requests pandas beautifulsoup4 openpyxl nltk tqdm
 
 ---
 
-## **Output Files**
-1. **`extracted_articles.csv`**  
-   | URL | Title | Content |
-   |-----|-------|---------|
-   | example.com/article1 | Article Title | Extracted content... |
 
-2. **`text_analysis_results.csv`**  
-   | URL_ID | POSITIVE_SCORE | NEGATIVE_SCORE | POLARITY_SCORE | ... |
-   |--------|---------------|---------------|---------------| ... |
-
----
-
-Let me know if you need modifications or additional explanations! 🚀
 
